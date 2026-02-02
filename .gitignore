@@ -2,3 +2,4 @@ rocksdb_block_size_demo
 *.o
 *.dSYM
 /tmp/
+.DS_Store
